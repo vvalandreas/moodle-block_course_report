@@ -31,7 +31,7 @@ define(['jquery'], function($) {
 	var t = {
 		
         drawChart: function(chartEl, dataset) {
-       
+       debugger;
          /*   
            	Dummy data
            
